@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Etudiants>
+    <Etudiant>
+        <Id>1</Id>
+        <Nom>Dupont</Nom>
+        <Prenom>Jean</Prenom>
+        <Age>22</Age>
+        <Email>jean.dupont@example.com</Email>
+    </Etudiant>
+    <Etudiant>
+        <Id>2</Id>
+        <Nom>Durand</Nom>
+        <Prenom>Marie</Prenom>
+        <Age>19</Age>
+        <Email>marie.durand@example.com</Email>
+    </Etudiant>
+    <Etudiant>
+        <Id>3</Id>
+        <Nom>Leroy</Nom>
+        <Prenom>Sophie</Prenom>
+        <Age>20</Age>
+        <Email>sophie.leroy@example.com</Email>
+    </Etudiant>
+    <Etudiant>
+        <Id>4</Id>
+        <Nom>Bernard</Nom>
+        <Prenom>Pierre</Prenom>
+        <Age>21</Age>
+        <Email>pierre.bernard@example.com</Email>
+    </Etudiant>
+    <Etudiant>
+        <Id>5</Id>
+        <Nom>Moreau</Nom>
+        <Prenom>Lucie</Prenom>
+        <Age>22</Age>
+        <Email>lucie.moreau@example.com</Email>
+    </Etudiant>
+</Etudiants>

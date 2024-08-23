@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 1,
+        "Nom": "Dupont",
+        "Prenom": "Jean",
+        "Age": 22,
+        "Email": "jean.dupont@example.com"
+    },
+    {
+        "Id": 2,
+        "Nom": "Durand",
+        "Prenom": "Marie",
+        "Age": 19,
+        "Email": "marie.durand@example.com"
+    },
+    {
+        "Id": 3,
+        "Nom": "Leroy",
+        "Prenom": "Sophie",
+        "Age": 20,
+        "Email": "sophie.leroy@example.com"
+    },
+    {
+        "Id": 4,
+        "Nom": "Bernard",
+        "Prenom": "Pierre",
+        "Age": 21,
+        "Email": "pierre.bernard@example.com"
+    },
+    {
+        "Id": 5,
+        "Nom": "Moreau",
+        "Prenom": "Lucie",
+        "Age": 22,
+        "Email": "lucie.moreau@example.com"
+    }
+]
