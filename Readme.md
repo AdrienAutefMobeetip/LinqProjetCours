@@ -11,7 +11,7 @@ Pour mettre en place le projet localement, suivez les étapes suivantes :
 
 Clonez le dépôt Git :
 
-git clone https://your-repository-url.git
+git clone https://github.com/AdrienAutefMobeetip/LinqProjetCours
 Naviguez dans le dossier du projet :
 
 cd LinqProject
